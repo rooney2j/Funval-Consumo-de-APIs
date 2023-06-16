@@ -58,6 +58,8 @@ Por ejemplo:
 
 Nosotros ya hemos creado algunos nombres de funciones que te pueden servir, sin embargo, no te limites a estas funciones, ya que son una guia de algunas partes que debes tener dentro de tu programa. Este contiene un código base, el cual eres libre de modificar a tu gusto.
 
+Para descargarlo, debes dirigirte al botón verde de arriba a la derecha del repositorio que dice `<> Code` y dar click. Allí te aparecerá una opción que diga `Download ZIP`. Eso te descargará los archivos del repositorio. Luego descomprime el archivo descargado.
+
 ## Consideraciones para la calificación
 
 A continuación te diremos cuales son los puntos que se tomarán en cuenta para la calificacion del proyecto:
@@ -67,8 +69,8 @@ A continuación te diremos cuales son los puntos que se tomarán en cuenta para 
 - En la seccion **All** deben aparecer todas las tareas existentes, tando mas activas como las completas.
 - En la seccion **Active** deben aparecer solo las tareas activas.
 - En la seccion **Completed** deben aparecer solo las tareas completas. Tambien debe haber un boton para borrar las tareas completas, se deben poder borrar una por una o todas con un solo boton.
+- En todas las vistas se permite marcar o descarmar una tarea como completada.
 - Las tareas completadas deben tener un estilo diferente a las tareas activas, deben estar tachadas como se muestra en las imagenes.
-
 - El proyecto debe ser estructurado de forma que sea fácil de entender y mantener.
 - El proyecto debe ser desplegado en Netlify drop.
 
