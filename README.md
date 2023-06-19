@@ -74,6 +74,7 @@ A continuación te diremos cuales son los puntos que se tomarán en cuenta para 
 - El proyecto debe ser estructurado de forma que sea fácil de entender y mantener.
 - El proyecto debe ser desplegado en Netlify drop.
 
-#### Consideraciones opcionales que también podrían sumar puntos:
+#### Consideraciones OPCIONALES que también podrían sumar puntos:
 - El diseño debe ser 100% responsive.
 - El proyecto debe ser desarrollado con Bootstrap 5. Para los estilos **que no se puedan** lograr con Bootstrap, puedes utilizar CSS puro.
+- Añadir una funcionalidad extra a las tareas, por ejemplo, generar persistencia de datos aprovechando el locar storage, permitir la edicion de una tarea actual, añadir subtareas, etc.
