@@ -65,7 +65,7 @@ A continuación te diremos cuales son los puntos que se tomarán en cuenta para 
 
 - El diseño debe ser lo más fiel posible al proporcionado en las imagenes.
 - Los colores, fuentes, tamaños de letra, etc. deben ser lo mas cercanos a los que se ven en las imagenes.
-- En la seccion **All** deben aparecer todas las tareas existentes, tando mas activas como las completas.
+- En la seccion **All** deben aparecer todas las tareas existentes, tanto las activas como las completas.
 - En la seccion **Active** deben aparecer solo las tareas activas.
 - En la seccion **Completed** deben aparecer solo las tareas completas. Tambien debe haber un boton para borrar las tareas completas, se deben poder borrar una por una o todas con un solo boton.
 - En todas las vistas se permite marcar o descarmar una tarea como completada.
@@ -76,4 +76,4 @@ A continuación te diremos cuales son los puntos que se tomarán en cuenta para 
 #### Consideraciones OPCIONALES que también podrían sumar puntos:
 - El diseño debe ser 100% responsive.
 - El proyecto debe ser desarrollado con Bootstrap 5. Para los estilos **que no se puedan** lograr con Bootstrap, puedes utilizar CSS puro.
-- Añadir una funcionalidad extra a las tareas, por ejemplo, generar persistencia de datos aprovechando el locar storage, permitir la edicion de una tarea actual, añadir subtareas, etc.
+- Añadir una funcionalidad extra a las tareas, por ejemplo, generar persistencia de datos aprovechando el localStorage, permitir la edicion de una tarea actual, añadir subtareas, etc.
