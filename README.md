@@ -18,7 +18,6 @@ El Diseño es el siguiente: ![TODO App](./design/result-1.png)
 
 El diseño responsive para esta página web es opcional. Para lograr esto, el cliente y tu han acordado que de manera opcional se podrá trabajar con la librería de Bootstrap 5. Si no es el caso, puedes utilizar únicamente CSS.
 
-Dentro del archivo Figma verás que hay 2 vistas principales: **Mobile** y **Desktop**. Como ya te mencioné, el diseño responsive es opcional, por lo cual si gustas puedes hacer la vista mobile; si no, con la vista Desktop es suficiente. Sin embargo, hacer la vista responsive podría sumar puntos a tu calificación final.
 
 ### Fuentes
 
