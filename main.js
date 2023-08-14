@@ -2,6 +2,15 @@
 
 /* Los siguientes nombres de funciones son una sugerencia de funciones que necesitarás en tu programa,
 sin embargo, no te limites solo a estas funciones. Crea tantas como consideres necesarias.
+
+La estructura de cada objeto "tarea" es la siguiente:
+
+{
+  id: 1,
+  title: "tarea",
+  completed: false
+}
+
 */
 
 // Función para añadir una nueva tarea
