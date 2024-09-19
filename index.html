@@ -1,17 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- Link to Script -->
-  <script src="./main.js" defer></script>
+  <title>To-Do App</title>
 
   <!-- Link to CSS -->
+  <link rel="stylesheet" href="./bootstrap-5.0.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="./style.css">
-  <title>To-Do App</title>
+
+  <!-- Link to Script -->
+  <script defer src="./bootstrap-5.0.2/js/bootstrap.bundle.min.js"></script>
+  <script src="./main.js" defer></script>
+
 </head>
+
 <body>
-  
+
+  <div class="container">
+    <!-- fila del título "#todo" -->
+    <div class="row">
+      <div class="col-12 d-flex justify-content-center">
+        <h1>#todo</h1>
+      </div>
+    </div>
+
+    <!-- Fila de los filtros All, Active y Completed -->
+    <div class="row mt-5">
+      <div class="col-4 d-flex justify-content-center">
+        <a href="#" class="opcion_menu opcion_all">All</a>
+      </div>
+
+      <div class="col-4 d-flex justify-content-center">
+        <a href="#" class="opcion_menu opcion_active">Active</a>
+      </div>
+
+      <div class="col-4 d-flex justify-content-center">
+        <a href="#" class="opcion_menu opcion_completed">Completed</a>
+      </div>
+    </div>
+
+    <hr>
+
+    <!-- Opciones -->
+    <div class="lista_all"></div>
+    <div class="lista_active"></div>
+    <div class="lista_completed"></div>
+
 </body>
+
 </html>
